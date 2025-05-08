@@ -1,1 +1,3 @@
 Projeto simples de um curso de javascript que fiz ja tem um tempo... 
+onde fiz esse mini site com interface interativa referente a compra de relogios,
+nele aprendi a manipular as imagens usando JavaScript, projeto bem basico, mas foi muito importante no inicio da minha jornada.
